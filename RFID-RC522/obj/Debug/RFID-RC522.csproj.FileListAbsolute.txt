@@ -1,0 +1,10 @@
+C:\dev\RFID\RFID-RC522\bin\Debug\RFID-RC522.exe.config
+C:\dev\RFID\RFID-RC522\bin\Debug\RFID-RC522.exe
+C:\dev\RFID\RFID-RC522\bin\Debug\RFID-RC522.pdb
+C:\dev\RFID\RFID-RC522\obj\Debug\RFID-RC522.csproj.AssemblyReference.cache
+C:\dev\RFID\RFID-RC522\obj\Debug\RFID_RC522.Form1.resources
+C:\dev\RFID\RFID-RC522\obj\Debug\RFID_RC522.Properties.Resources.resources
+C:\dev\RFID\RFID-RC522\obj\Debug\RFID-RC522.csproj.GenerateResource.cache
+C:\dev\RFID\RFID-RC522\obj\Debug\RFID-RC522.csproj.CoreCompileInputs.cache
+C:\dev\RFID\RFID-RC522\obj\Debug\RFID-RC522.exe
+C:\dev\RFID\RFID-RC522\obj\Debug\RFID-RC522.pdb
