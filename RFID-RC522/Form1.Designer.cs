@@ -69,7 +69,7 @@
             this.richTextBox1.Font = new System.Drawing.Font("Consolas", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox1.ForeColor = System.Drawing.Color.White;
             this.richTextBox1.Location = new System.Drawing.Point(250, 11);
-            this.richTextBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(2);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(747, 650);
             this.richTextBox1.TabIndex = 300;
@@ -310,7 +310,7 @@
             this.btnAction1.Name = "btnAction1";
             this.btnAction1.Size = new System.Drawing.Size(218, 23);
             this.btnAction1.TabIndex = 1;
-            this.btnAction1.Text = "Action 1";
+            this.btnAction1.Text = "Find Key A / Dump Manufacturer Data";
             this.btnAction1.UseVisualStyleBackColor = true;
             this.btnAction1.Click += new System.EventHandler(this.btnAction1_Click);
             // 
@@ -378,7 +378,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.richTextBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
