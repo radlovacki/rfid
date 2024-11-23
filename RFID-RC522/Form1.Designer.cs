@@ -300,7 +300,7 @@
             this.btnAction2.Name = "btnAction2";
             this.btnAction2.Size = new System.Drawing.Size(218, 23);
             this.btnAction2.TabIndex = 2;
-            this.btnAction2.Text = "Action 2";
+            this.btnAction2.Text = "Dump NDEF PICC Data";
             this.btnAction2.UseVisualStyleBackColor = true;
             this.btnAction2.Click += new System.EventHandler(this.btnAction2_Click);
             // 
@@ -310,7 +310,7 @@
             this.btnAction1.Name = "btnAction1";
             this.btnAction1.Size = new System.Drawing.Size(218, 23);
             this.btnAction1.TabIndex = 1;
-            this.btnAction1.Text = "Find Key A / Dump Manufacturer Data";
+            this.btnAction1.Text = "Find Key A and Dump Manufacturer Block";
             this.btnAction1.UseVisualStyleBackColor = true;
             this.btnAction1.Click += new System.EventHandler(this.btnAction1_Click);
             // 
@@ -320,7 +320,7 @@
             this.btnAction0.Name = "btnAction0";
             this.btnAction0.Size = new System.Drawing.Size(218, 23);
             this.btnAction0.TabIndex = 0;
-            this.btnAction0.Text = "DumpInfo";
+            this.btnAction0.Text = "Dump PCB and PICC Data";
             this.btnAction0.UseVisualStyleBackColor = true;
             this.btnAction0.Click += new System.EventHandler(this.btnAction0_Click);
             // 
@@ -383,7 +383,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "RFID-RC522";
+            this.Text = "RFID-RC522 Tools @ github.com/radlovacki";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

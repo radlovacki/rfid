@@ -46,7 +46,7 @@ namespace RFID_RC522
         private void Form1_Load(object sender, EventArgs e)
         {
             cbPortName.Items.AddRange(new object[] { "COM1", "COM2", "COM3", "COM4", "COM5", "COM6", "COM7", "COM8", "COM9" });
-            cbPortName.SelectedIndex = 5;
+            cbPortName.SelectedIndex = 3;
             ToolTip cbPortNameToolTip = new ToolTip();
             cbPortNameToolTip.SetToolTip(cbPortName, "Select or Enter Serial Port Name");
             cbBaudRate.Items.AddRange(new object[] { "4800", "9600", "19200", "38400", "57600", "115200", "230400", "460800", "921600" });
